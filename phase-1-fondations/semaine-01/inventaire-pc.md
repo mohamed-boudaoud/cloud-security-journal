@@ -42,7 +42,6 @@ Les 3 premiers octets d'une adresse MAC identifient le fabricant.
 | Libre | 3 Go | — |
 | Total | 16 Go | 8 threads |
 
-![Répartition du homelab](../schemas/repartition-homelab.png)
 
 Conclusion : tout le homelab tient en même temps, avec 3 Go de marge. En pratique, je n'allume que les VM utiles à chaque étape.
 
